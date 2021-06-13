@@ -1,0 +1,20 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java" />
+      <blacklist language="Angular HTML Template" />
+      <blacklist language="JavaScript">
+        <added pattern="AxiosInstance.post(url,data,config)" />
+      </blacklist>
+      <blacklist language="PHP">
+        <added pattern="\Hatchly\Pages\Page.attr(keyPath,options,dataSource)" />
+        <added pattern="\app(make,parameters)" />
+        <added pattern="\route(name,parameters,absolute)" />
+        <added pattern="\compact(varname,_)" />
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="Groovy" />
+    </blacklists>
+  </component>
+</application>
