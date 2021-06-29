@@ -7,11 +7,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="Application">
-                    <value>
-                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
@@ -47,21 +42,6 @@
                       <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="JarApplication">
-                    <value>
-                      <FeaturePluginData displayName="JAR Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="Java Scratch">
-                    <value>
-                      <FeaturePluginData displayName="Java Scratch" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="JavaScriptNodeJsTraceType">
-                    <value>
-                      <FeaturePluginData displayName="Spy-js for Node.js" pluginName="Spy-js" pluginId="spy-js" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="JavaScriptTestRunnerJest">
                     <value>
                       <FeaturePluginData displayName="Jest" pluginName="JavaScript and TypeScript" pluginId="JavaScript" bundled="true" />
@@ -72,19 +52,9 @@
                       <FeaturePluginData displayName="Protractor" pluginName="JavaScript and TypeScript" pluginId="JavaScript" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="JavaScriptTraceType">
-                    <value>
-                      <FeaturePluginData displayName="Spy-js" pluginName="Spy-js" pluginId="spy-js" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="JavascriptDebugType">
                     <value>
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="Makefile Target" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
@@ -147,19 +117,9 @@
                       <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="Remote">
-                    <value>
-                      <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="SpaceRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
                     </value>
                   </entry>
                   <entry key="SwaggerCodegen">
@@ -215,26 +175,6 @@
         <entry key="com.intellij.facetType">
           <value>
             <FeaturePluginsList />
-          </value>
-        </entry>
-        <entry key="com.intellij.packaging.artifacts.ArtifactType">
-          <value>
-            <FeaturePluginsList>
-              <option name="featureMap">
-                <map>
-                  <entry key="jar">
-                    <value>
-                      <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="plain">
-                    <value>
-                      <FeaturePluginData displayName="Other" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </FeaturePluginsList>
           </value>
         </entry>
       </map>
